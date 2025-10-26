@@ -8,6 +8,8 @@
 
 vim.opt.winbar = "%=%m %f"
 
+vim.opt.background = "dark"
+
 vim.opt.completeopt = { "menu", "menuone", "noselect", "popup" }
 
 vim.opt.clipboard = "unnamedplus"
